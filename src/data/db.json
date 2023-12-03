@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "Mercedes Blue",
+      "year": "2022",
+      "price": 10,
+      "img": "1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mercedes Red",
+      "year": "2024",
+      "price": 20,
+      "img": "2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mercedes Yellow",
+      "year": "2020",
+      "price": 30,
+      "img": "3.jpg"
+    }
+  ]
+}
